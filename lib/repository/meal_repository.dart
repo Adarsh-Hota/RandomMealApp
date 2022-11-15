@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:random_meal_app/modals/meal_modal.dart';
-import 'package:random_meal_app/utils.dart';
+import 'package:random_meal_app/secrets.dart';
 
 class MealRepository {
   //parsing in a different isolate

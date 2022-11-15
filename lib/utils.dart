@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-String urlEndpoint = 'https://www.themealdb.com/api/json/v1/1/random.php';
-
 TextStyle textStyle(
   double size,
   Color color,

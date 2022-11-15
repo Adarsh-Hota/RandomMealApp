@@ -43,9 +43,11 @@ class HomeScreen extends ConsumerWidget {
                   onPressed: () {
                     ref.refresh(mealProvider);
                     Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                            builder: ((context) => RecipeScreen())));
+                      context,
+                      MaterialPageRoute(
+                        builder: ((context) => const RecipeScreen()),
+                      ),
+                    );
                   },
                   child: Text(
                     'Show a recipe',
