@@ -4,7 +4,7 @@ An app through which a user can generate a random meal and get useful informatio
 
 # Screenshots
 
-<img src="/readMeImages/IntroScreen.png" title="IntroScreen" width="250" height="460"/> <img src="/readMeImages/RecipeScreen.png" title="RecipeScreen" width="250" height="460"/> <img src="/readMeImages/Ingredients_And_Instructions.png" alt="AuthScreen" title="Ingredients_And_Instructions" width="250" height="460"/>
+<img src="/readMeImages/IntroScreen.png" title="IntroScreen" width="250" height="460"/> <img src="/readMeImages/RecipeScreen.png" title="RecipeScreen" width="250" height="460"/> <img src="/readMeImages/Ingredients_And_Instructions.png" title="Ingredients_And_Instructions" width="250" height="460"/>
 
 # Tech Stack Used
 
